@@ -59,7 +59,6 @@ The platform focuses primarily on technology from the late 1990s and early 2000s
 - User profiles
 - Public collections
 - Member directory
-- Followers system
 - Profile customization
 
 ## Marketplace
@@ -67,7 +66,6 @@ The platform focuses primarily on technology from the late 1990s and early 2000s
 - Buy items
 - Sell items
 - Trade collectibles
-- Wishlist system
 - Search & filters
 
 ## Articles
@@ -85,7 +83,6 @@ Members can publish articles about:
 
 - Real-time conversations
 - Collector communication
-- Secure private chat
 
 ## Membership System
 
